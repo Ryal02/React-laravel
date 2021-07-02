@@ -1,0 +1,10 @@
+body {
+    padding: 1em;
+}
+
+.selected {
+    font-family: "bold";
+    color: "red";
+}
+
+a:active { background-color: yellow}
